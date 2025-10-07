@@ -21,5 +21,5 @@ A simple full-stack CRUD application using Spring Boot and HTML.
 3. Open `index.html` in browser (located in `src/main/resources/static/`)
 
 ##  Author
-Varun Sai
+Nallakasula Hemanth
 
